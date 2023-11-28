@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         homesのPRを非表示にするやつ
 // @namespace    http://tampermonkey.net/
-// @version      0.4.1
+// @version      0.4.2
 // @description  homes.co.jpの特定のページで特定のdivを非表示にする
 // @author       Honahuku
 // @match        https://www.homes.co.jp/*
