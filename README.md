@@ -1,5 +1,11 @@
 # rm-homes-pr
-homesのPRを非表示にするやつ
+homesのPRを非表示にするやつ  
+
+### これを
+<img src="https://github.com/honahuku/rm-homes-pr/assets/58413358/9bf4f427-383e-448e-b28f-9934ee3ea37b" width="300">
+
+### こうする
+<img src="https://github.com/honahuku/rm-homes-pr/assets/58413358/e5367ce8-b1c4-474e-8683-db0b244380cb" width="300">
 
 ## 使い方
 1. [Tampermonkey](https://www.tampermonkey.net/index.php) をインストールする  
